@@ -1,0 +1,11 @@
+Selenium Relative locations | Friendly locators
+
+above() : Element located above with respect to the specified element 
+below() : Element located below with respect to the specified element
+toLeftOf()  : Element located to left with respect to the specified element
+toRightOf() : Element located to right with respect to the specified element
+
+Syntax: 
+driver.findElement(with TagName("xx").above(WebElement);	
+
+Relative locators do not support flex element
