@@ -2,7 +2,7 @@
 
 above() : Element located above with respect to the specified element 
 below() : Element located below with respect to the specified element
-toLeftOf()  : Element located to left with respect to the specified element
+toLeftOf() : Element located to left with respect to the specified element
 toRightOf() : Element located to right with respect to the specified element
 
 2. Syntax: 
@@ -10,4 +10,6 @@ toRightOf() : Element located to right with respect to the specified element
 
 3. Relative locators do not support flex element
 
-4. Invoking multiple windows/tabs available form Selenium 4.0 version
+4. Invoking multiple windows/tabs available form Selenium 4.0 version. 
+
+5. We can partial screenshot and it is available from selenium 4.0 version. 
